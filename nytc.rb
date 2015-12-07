@@ -2,7 +2,7 @@
 #################### config section ###################
 username = "psorders%40animoto.com"
 password = "cr0551m0t0"
-output_path = "/nyt/"
+output_path = "/tmp/"
 #######################################################
 
 
